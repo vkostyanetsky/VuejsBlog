@@ -1,5 +1,7 @@
 # Блог на Vue.js
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Клиент-серверное веб-приложение для персонального сайта. Написано в порядке эксперимента.
 
 ## Что умеет?
